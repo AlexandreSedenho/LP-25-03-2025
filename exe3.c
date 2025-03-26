@@ -20,7 +20,7 @@ int main(void) {
 	break;
     }
 
-    printf("Digite o tamanho recebido, F para encerrar: ");
+    printf("Digite a ação da máquina, F para encerrar: ");
     acao = getchar();
     getchar();
   }
